@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Preetam-Shri
+## 👋 Hi, I’m Preetam S Shri
 - 👀 I’m interested in development, open source and devops
 - 🌱 I’m currently learning DSA for getting started on my development journey and also started out on Devops
 - 💞️ I’m looking to collaborate on open source projects
