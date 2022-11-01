@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Preetam S Shri
-- 👀 I’m interested in development, open source and devops
-- 🌱 I’m currently learning DSA for getting started on my development journey and also started out on Devops
+#👀 I’m interested in development, open source and devops
+- 🌱 I’m currently learning Web development, frontend currently for getting started on my development journey 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me Twitter: @Krishri2
 
