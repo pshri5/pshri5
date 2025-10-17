@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on frontend projects<br>👯 I’m looking to collaborate on Open-source<br>🌱 I’m currently learning APIs, backend
+🔭 I’m currently working on backend projects<br>👯 I’m looking to collaborate on Open-source<br>🌱 I’m currently learning APIs, backend
 
 
 ## 🌐 Socials:
